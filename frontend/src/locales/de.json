@@ -1,0 +1,74 @@
+{
+  "weatherSystem": "Wettersystem",
+  "language": "Sprache",
+  "searchPlaceholder": "Suche nach Stadt oder Gebiet...",
+  "search": "Suchen",
+  "recentSearches": "Letzte Suchen",
+  "selectArea": "Bereich auswählen",
+  "detectingLocation": "Standort wird erkannt...",
+  "tryAgain": "Erneut versuchen",
+  "otherCities": "Andere Städte",
+  "forecast": "Vorhersage",
+  "humidity": "Luftfeuchtigkeit",
+  "wind": "Wind",
+  "feelsLike": "Gefühlt",
+  "pressure": "Druck",
+  "sunrise": "Sonnenaufgang",
+  "sunset": "Sonnenuntergang",
+  "noWeatherData": "Keine Wetterdaten verfügbar. Bitte Standort erlauben oder nach einer Stadt suchen.",
+  "airQualityIndex": "Luftqualitätsindex (LQI):",
+  "Good": "Gut",
+  "Fair": "Mittel",
+  "Moderate": "Moderat",
+  "Poor": "Schlecht",
+  "Very Poor": "Sehr schlecht",
+  "mainPollutants": "Hauptschadstoffe (μg/m³):",
+  "sensitiveGroups": "Empfindliche Gruppen: Asthmatiker, ältere Menschen, Kinder und Haustiere sollten den obigen Rat befolgen.",
+  "airAdviceGood": "Die Luftqualität ist gut. Viel Spaß bei Aktivitäten im Freien!",
+  "airAdviceFair": "Die Luftqualität ist mittel. Empfindliche Gruppen sollten vorsichtig sein.",
+  "airAdviceModerate": "Die Luftqualität ist moderat. Empfindliche Gruppen sollten körperliche Anstrengung im Freien begrenzen.",
+  "airAdvicePoor": "Die Luftqualität ist schlecht. Kinder, Ältere und Asthmatiker sollten drinnen bleiben.",
+  "airAdviceVeryPoor": "Gesundheitswarnung: Jeder sollte körperliche Anstrengung im Freien vermeiden!",
+  "fiveDayForecast": "5-Tage-Vorhersage",
+  "shareWeather": "Wetter teilen",
+  "weather": "Wetter",
+  "in": "in",
+  "aqi": {
+    "insights": "Gesundheits- & Aktivitätsinfos",
+    "label": "Luftqualitätsindex (AQI):",
+    "outdoor_advice": "Ratschlag für Aktivitäten im Freien:",
+    "pollutants": "Hauptschadstoffe (μg/m³):",
+    "sensitive_groups": "Empfindliche Gruppen: Asthmatiker, ältere Menschen, Kinder und Haustiere sollten den obigen Rat befolgen.",
+    "no_data": "Luftqualitätsdaten nicht verfügbar.",
+    "levels": {
+      "good": {
+        "label": "Gut",
+        "advice": "Die Luftqualität ist gut. Genießen Sie Aktivitäten im Freien!"
+      },
+      "fair": {
+        "label": "Befriedigend",
+        "advice": "Die Luftqualität ist befriedigend. Empfindliche Gruppen sollten vorsichtig sein."
+      },
+      "moderate": {
+        "label": "Mäßig",
+        "advice": "Die Luftqualität ist mäßig. Empfindliche Gruppen sollten Anstrengungen im Freien begrenzen."
+      },
+      "poor": {
+        "label": "Schlecht",
+        "advice": "Die Luftqualität ist schlecht. Kinder, ältere Menschen und Asthmatiker sollten drinnen bleiben."
+      },
+      "veryPoor": {
+        "label": "Sehr schlecht",
+        "advice": "Gesundheitswarnung: Jeder sollte Anstrengungen im Freien vermeiden!"
+      }
+    },
+    "activity": {
+      "poor": "Die Luftqualität ist schlecht. Vermeiden Sie anstrengende Aktivitäten im Freien.",
+      "hot": "Es ist sehr heiß. Trinken Sie ausreichend und vermeiden Sie sportliche Aktivitäten mittags im Freien.",
+      "cold": "Es ist ziemlich kalt. Ziehen Sie sich warm an und beschränken Sie Aktivitäten im Freien.",
+      "windy": "Es ist windig. Seien Sie vorsichtig beim Radfahren oder Laufen.",
+      "rainy": "Es regnet. Ziehen Sie Aktivitäten in Innenräumen in Betracht.",
+      "great": "Beste Bedingungen für Aktivitäten im Freien!"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "weatherSystem": "Sistema Meteorológico",
+  "language": "Idioma",
+  "searchPlaceholder": "Buscar ciudad o área...",
+  "search": "Buscar",
+  "recentSearches": "Búsquedas recientes",
+  "selectArea": "Seleccionar área",
+  "detectingLocation": "Detectando ubicación...",
+  "tryAgain": "Intentar de nuevo",
+  "otherCities": "Otras ciudades",
+  "forecast": "Pronóstico",
+  "humidity": "Humedad",
+  "wind": "Viento",
+  "feelsLike": "Sensación térmica",
+  "pressure": "Presión",
+  "sunrise": "Amanecer",
+  "sunset": "Atardecer",
+  "noWeatherData": "No hay datos meteorológicos disponibles. Por favor, permita la ubicación o busque una ciudad.",
+  "airQualityIndex": "Índice de calidad del aire (ICA):",
+  "Good": "Bueno",
+  "Fair": "Aceptable",
+  "Moderate": "Moderado",
+  "Poor": "Mala",
+  "Very Poor": "Muy mala",
+  "mainPollutants": "Contaminantes principales (μg/m³):",
+  "sensitiveGroups": "Grupos sensibles: asmáticos, ancianos, niños y mascotas deben seguir los consejos anteriores.",
+  "airAdviceGood": "La calidad del aire es buena. ¡Disfruta de las actividades al aire libre!",
+  "airAdviceFair": "La calidad del aire es aceptable. Los grupos sensibles deben tener precaución.",
+  "airAdviceModerate": "La calidad del aire es moderada. Los grupos sensibles deben limitar el esfuerzo al aire libre.",
+  "airAdvicePoor": "La calidad del aire es mala. Niños, ancianos y asmáticos deben permanecer en interiores.",
+  "airAdviceVeryPoor": "Alerta sanitaria: ¡todos deben evitar esfuerzos al aire libre!",
+  "fiveDayForecast": "Pronóstico de 5 días",
+  "shareWeather": "Compartir clima",
+  "weather": "Clima",
+  "in": "en",
+  "aqi": {
+    "insights": "Consejos de salud y actividad",
+    "label": "Índice de calidad del aire (ICA):",
+    "outdoor_advice": "Consejos para actividades al aire libre:",
+    "pollutants": "Principales contaminantes (μg/m³):",
+    "sensitive_groups": "Grupos sensibles: asmáticos, ancianos, niños y mascotas deben seguir los consejos anteriores.",
+    "no_data": "Datos de calidad del aire no disponibles.",
+    "levels": {
+      "good": {
+        "label": "Bueno",
+        "advice": "La calidad del aire es buena. ¡Disfruta de las actividades al aire libre!"
+      },
+      "fair": {
+        "label": "Aceptable",
+        "advice": "La calidad del aire es aceptable. Los grupos sensibles deben tener precaución."
+      },
+      "moderate": {
+        "label": "Moderado",
+        "advice": "La calidad del aire es moderada. Los grupos sensibles deben limitar el esfuerzo al aire libre."
+      },
+      "poor": {
+        "label": "Mala",
+        "advice": "La calidad del aire es mala. Niños, ancianos y asmáticos deben permanecer en interiores."
+      },
+      "veryPoor": {
+        "label": "Muy mala",
+        "advice": "Alerta sanitaria: ¡todos deben evitar esfuerzos al aire libre!"
+      }
+    },
+    "activity": {
+      "poor": "La calidad del aire es mala. Evite actividades extenuantes al aire libre.",
+      "hot": "Hace mucho calor. Mantente hidratado y evita el ejercicio al aire libre al mediodía.",
+      "cold": "Hace bastante frío. Abríguese bien y limite las actividades al aire libre.",
+      "windy": "Hace viento. Tenga cuidado al andar en bicicleta o correr.",
+      "rainy": "Está lloviendo. Considere actividades bajo techo.",
+      "great": "¡Excelentes condiciones para actividades al aire libre!"
+    }
+  }
+}

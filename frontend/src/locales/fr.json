@@ -1,0 +1,74 @@
+{
+  "weatherSystem": "Système Météo",
+  "language": "Langue",
+  "searchPlaceholder": "Rechercher une ville ou une région...",
+  "search": "Rechercher",
+  "recentSearches": "Recherches récentes",
+  "selectArea": "Sélectionner une zone",
+  "detectingLocation": "Détection de la position...",
+  "tryAgain": "Réessayer",
+  "otherCities": "Autres villes",
+  "forecast": "Prévisions",
+  "humidity": "Humidité",
+  "wind": "Vent",
+  "feelsLike": "Ressenti",
+  "pressure": "Pression",
+  "sunrise": "Lever du soleil",
+  "sunset": "Coucher du soleil",
+  "noWeatherData": "Aucune donnée météo disponible. Veuillez autoriser la localisation ou rechercher une ville.",
+  "airQualityIndex": "Indice de qualité de l'air (IQA) :",
+  "Good": "Bon",
+  "Fair": "Moyen",
+  "Moderate": "Modéré",
+  "Poor": "Mauvais",
+  "Very Poor": "Très mauvais",
+  "mainPollutants": "Principaux polluants (μg/m³) :",
+  "sensitiveGroups": "Groupes sensibles : les asthmatiques, les personnes âgées, les enfants et les animaux doivent suivre les conseils ci-dessus.",
+  "airAdviceGood": "La qualité de l'air est bonne. Profitez des activités de plein air !",
+  "airAdviceFair": "La qualité de l'air est moyenne. Les groupes sensibles doivent faire preuve de prudence.",
+  "airAdviceModerate": "La qualité de l'air est modérée. Les groupes sensibles doivent limiter les efforts en plein air.",
+  "airAdvicePoor": "La qualité de l'air est mauvaise. Les enfants, les personnes âgées et les asthmatiques doivent rester à l'intérieur.",
+  "airAdviceVeryPoor": "Alerte sanitaire : tout le monde doit éviter les efforts en plein air !",
+  "fiveDayForecast": "Prévisions sur 5 jours",
+  "shareWeather": "Partager la météo",
+  "weather": "Météo",
+  "in": "à",
+  "aqi": {
+    "insights": "Conseils santé & activité",
+    "label": "Indice de qualité de l'air (IQA) :",
+    "outdoor_advice": "Conseil pour les activités extérieures :",
+    "pollutants": "Principaux polluants (μg/m³) :",
+    "sensitive_groups": "Groupes sensibles : les asthmatiques, les personnes âgées, les enfants et les animaux doivent suivre les conseils ci-dessus.",
+    "no_data": "Données sur la qualité de l'air non disponibles.",
+    "levels": {
+      "good": {
+        "label": "Bon",
+        "advice": "La qualité de l'air est bonne. Profitez des activités de plein air !"
+      },
+      "fair": {
+        "label": "Moyen",
+        "advice": "La qualité de l'air est moyenne. Les groupes sensibles doivent faire preuve de prudence."
+      },
+      "moderate": {
+        "label": "Modéré",
+        "advice": "La qualité de l'air est modérée. Les groupes sensibles doivent limiter les efforts en plein air."
+      },
+      "poor": {
+        "label": "Mauvais",
+        "advice": "La qualité de l'air est mauvaise. Les enfants, les personnes âgées et les asthmatiques doivent rester à l'intérieur."
+      },
+      "veryPoor": {
+        "label": "Très mauvais",
+        "advice": "Alerte sanitaire : tout le monde doit éviter les efforts en plein air !"
+      }
+    },
+    "activity": {
+      "poor": "La qualité de l'air est mauvaise. Évitez les activités extérieures intenses.",
+      "hot": "Il fait très chaud. Restez hydraté et évitez les exercices extérieurs à midi.",
+      "cold": "Il fait assez froid. Habillez-vous chaudement et limitez les activités extérieures.",
+      "windy": "Il y a du vent. Faites attention lors du vélo ou de la course.",
+      "rainy": "Il pleut. Privilégiez les activités en intérieur.",
+      "great": "Excellentes conditions pour les activités de plein air !"
+    }
+  }
+}

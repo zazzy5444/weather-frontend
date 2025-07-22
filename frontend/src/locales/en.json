@@ -1,0 +1,74 @@
+{
+  "weatherSystem": "Weather System",
+  "language": "Language",
+  "searchPlaceholder": "Search for a city or area...",
+  "search": "Search",
+  "recentSearches": "Recent Searches",
+  "selectArea": "Select Area",
+  "detectingLocation": "Detecting location...",
+  "tryAgain": "Try Again",
+  "otherCities": "Other Cities",
+  "forecast": "Forecast",
+  "humidity": "Humidity",
+  "wind": "Wind",
+  "feelsLike": "Feels Like",
+  "pressure": "Pressure",
+  "sunrise": "Sunrise",
+  "sunset": "Sunset",
+  "noWeatherData": "No weather data available. Please allow location or search for a city.",
+  "airQualityIndex": "Air Quality Index (AQI):",
+  "Good": "Good",
+  "Fair": "Fair",
+  "Moderate": "Moderate",
+  "Poor": "Poor",
+  "Very Poor": "Very Poor",
+  "mainPollutants": "Main Pollutants (μg/m³):",
+  "sensitiveGroups": "Sensitive groups: asthmatics, elderly, children, and pets should follow the advice above.",
+  "airAdviceGood": "Air quality is good. Enjoy outdoor activities!",
+  "airAdviceFair": "Air quality is fair. Sensitive groups should take minor caution.",
+  "airAdviceModerate": "Air quality is moderate. Sensitive groups should limit outdoor exertion.",
+  "airAdvicePoor": "Air quality is poor. Children, elderly, and those with asthma should stay indoors.",
+  "airAdviceVeryPoor": "Health alert: Everyone should avoid outdoor exertion!",
+  "fiveDayForecast": "5-Day Forecast",
+  "shareWeather": "Share Weather",
+  "weather": "Weather",
+  "in": "in",
+  "aqi": {
+    "insights": "Health & Activity Insights",
+    "label": "Air Quality Index (AQI):",
+    "outdoor_advice": "Outdoor Activity Advice:",
+    "pollutants": "Main Pollutants (μg/m³):",
+    "sensitive_groups": "Sensitive groups: Asthma, elderly, children, and pets should follow the advice above.",
+    "no_data": "Air quality data not available.",
+    "levels": {
+      "good": {
+        "label": "Good",
+        "advice": "Air quality is good. Enjoy outdoor activities!"
+      },
+      "fair": {
+        "label": "Fair",
+        "advice": "Air quality is fair. Sensitive groups should take minor caution."
+      },
+      "moderate": {
+        "label": "Moderate",
+        "advice": "Air quality is moderate. Sensitive groups should limit outdoor exertion."
+      },
+      "poor": {
+        "label": "Poor",
+        "advice": "Air quality is poor. Children, elderly, and those with asthma should stay indoors."
+      },
+      "veryPoor": {
+        "label": "Very Poor",
+        "advice": "Health alert: Everyone should avoid outdoor exertion!"
+      }
+    },
+    "activity": {
+      "poor": "Air quality is poor. Avoid strenuous outdoor activities.",
+      "hot": "It's very hot. Stay hydrated and avoid outdoor exercise during midday.",
+      "cold": "It's quite cold. Dress warmly and limit outdoor activity.",
+      "windy": "It's windy. Take care with cycling or running.",
+      "rainy": "It's rainy. Consider indoor activities.",
+      "great": "Great conditions for outdoor activities!"
+    }
+  }
+}
